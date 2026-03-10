@@ -1,6 +1,6 @@
 using System.Linq.Expressions;
 
-namespace BankAccountProject
+namespace PiggyBankApp
 {
     public class BankAccount
     {
